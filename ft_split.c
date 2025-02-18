@@ -58,7 +58,7 @@ char	**free_2d(char **str)
 	int		i;
 
 	i = 0;
-	while (str[i] != '\0')
+	while (str[i] != NULL)
 	{
 		tab = str[i];
 		free(tab);
