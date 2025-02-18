@@ -21,7 +21,7 @@ Libft is a custom C library that implements essential functions from the standar
 1. Clone the repository:
    ```sh
    git clone https://github.com/ElmehdiBennix/Libft_42.git
-   cd libft
+   cd Libft_42
    ```
 2. Compile the library:
    ```sh
